@@ -30,6 +30,9 @@
     padding: 35px 17px;
     position: relative;
 }
+#sogh{
+    color: black
+}
 
 .main-menu nav ul li a:before{
     content: '';
